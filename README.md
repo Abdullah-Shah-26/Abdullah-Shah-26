@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @SyedMohammedAbdullahShah
+- 👋 Hi, I’m @Abdullah
 - 👀 I’m interested in different programming languages and frameworks 
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on problems related to DSA
+- 🌱 I’m currently learning cpp DSA & python 
+- 💞️ I’m looking to collaborate on real world problems in software that can make people's life easier.  
 - 📫 How to reach me - syedmohammedabdullahshah@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am interested in both software and hardware of a computer 🖥️ and 📱
+- ⚡ Fun fact: I am interested in both software and hardware of a computer 🖥️ and 📱Mobile
 
 <!---
 SyedMohammedAbdullahShah/SyedMohammedAbdullahShah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
