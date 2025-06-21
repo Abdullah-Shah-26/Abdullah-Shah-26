@@ -2,9 +2,8 @@
 - 👋 Hi, I'm @Abdullah
 - 👀 I'm interested in different programming languages and frameworks 
 - 🌱 I'm currently learning cpp DSA & python 
-- 💞️ I'm looking to collaborate on real world problems in software that can make people's life easier.  
-- 📫 How to reach me - syedmohammedabdullahshah@gmail.com
-- ⚡ Fun fact: I am interested in both software & hardware of a computer 🖥️ and 📱Mobile
+- 💞️ I'm looking to collaborate on real world problems in software that can make everyone's life easier.  
+- ⚡ Fun fact: I am interested in both software & hardware of a computer 🖥️ 7 even📱Mobile
 
 <div align="center">
   <div style="
