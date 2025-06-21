@@ -1,8 +1,8 @@
 # 💫About Me :
 - 👋 Hi, I'm @Abdullah
-- 👀 I'm interested in different Programming languages, Frameworks, Softwares, Tech Gadgets.
-- 🌱 I'm currently learning cpp DSA & exploring dev.
-- 💞️ I'm looking to collaborate on real world problems in software that can make everyone's easier.  
+- 👀 I'm interested in different Programming languages, Frameworks, Softwares & Tech Gadgets.
+- 🌱 I'm currently learning advanced C++ DSA concepts & exploring dev.
+- 💞️ I'm looking to collaborate on real world problems in software that can make everyone's life better.  
 - ⚡ Fun fact: I am interested in both software & hardware of a computer 🖥️ and 📱Mobile
 
 <div align="center">
@@ -18,11 +18,12 @@
   "></div>
 </div>
 
+
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syed-mohammed-abdullah-shah/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Abdullah1155868) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:syedmohammedabdullahshah@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syed-mohammed-abdullah-shah/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Abdullah1155868) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:syedmohammedabdullahshah@gmail.com)
 
 ## 💻Competitive Programming
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/ABDULLAH2006/) [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/abdullah_shah) [![CodeForces](https://img.shields.io/badge/CodeForces-445f9d?style=flat&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Perfectionist_26) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/syedmohammedaj8mq/) [![AtCoder](https://img.shields.io/badge/AtCoder-002E8B?style=flat&logo=AtCoder&logoColor=white)](https://atcoder.jp/users/AbdullahShah)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ABDULLAH2006/) [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/abdullah_shah) [![CodeForces](https://img.shields.io/badge/CodeForces-1F8ACB?style=flat&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Perfectionist_26) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/syedmohammedaj8mq/) [![AtCoder](https://img.shields.io/badge/AtCoder-BC002D?style=flat&logo=AtCoder&logoColor=white)](https://atcoder.jp/users/AbdullahShah) [![Codolio](https://img.shields.io/badge/Codolio-2D94DE?style=flat)](https://codolio.com/profile/Abdullah_Shah)
 
 <div align="center">
   <div style="
@@ -38,7 +39,7 @@
 </div>
 
 # 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD43B) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
 <div align="center">
   <div style="
@@ -104,4 +105,3 @@
 Abdullah-Shah-26/Abdullah-Shah-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---> 
-
