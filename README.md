@@ -2,8 +2,9 @@
 - 👋 Hi, I'm @Abdullah
 - 👀 I'm interested in different programming languages and frameworks 
 - 🌱 I'm currently learning cpp DSA & python 
-- 💞️ I'm looking to collaborate on real world problems in software that can make everyone's life easier.  
-- ⚡ Fun fact: I am interested in both software & hardware of a computer 🖥️ 7 even📱Mobile
+- 💞️ I'm looking to collaborate on real world problems in software that can make people's life easier.  
+- 📫 How to reach me - syedmohammedabdullahshah@gmail.com
+- ⚡ Fun fact: I am interested in both software & hardware of a computer 🖥️ and 📱Mobile
 
 <div align="center">
   <div style="
@@ -67,9 +68,18 @@
 </div>
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Abdullah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Shah-26&theme=dark&show_icons=true&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Shah-26&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Shah-26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
 
 <div align="center">
   <div style="
@@ -85,7 +95,9 @@
 </div>
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Abdullah&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=Abdullah-Shah-26&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
 
 <div align="center">
   <div style="
@@ -101,4 +113,8 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abdullah&icon=0&color=0)](https://visitcount.itsvg.in) 
+[![](https://visitcount.itsvg.in/api?id=Abdullah-Shah-26&icon=0&color=0)](https://visitcount.itsvg.in)
+<!---
+Abdullah-Shah-26/Abdullah-Shah-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+---> 
