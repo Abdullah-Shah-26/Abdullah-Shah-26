@@ -3,7 +3,6 @@
 - 👀 I'm interested in different Programming languages, Frameworks, Softwares, Tech Gadgets.
 - 🌱 I'm currently learning cpp DSA & exploring dev.
 - 💞️ I'm looking to collaborate on real world problems in software that can make everyone's easier.  
-- 📫 How to reach me - syedmohammedabdullahshah@gmail.com
 - ⚡ Fun fact: I am interested in both software & hardware of a computer 🖥️ and 📱Mobile
 
 <div align="center">
@@ -18,19 +17,6 @@
     margin: 20px 0;
   "></div>
 </div>
-
-<style>
-@keyframes rgbFlow {
-  0% {
-    background-position: 0% 50%;
-    filter: hue-rotate(0deg);
-  }
-  100% {
-    background-position: 200% 50%;
-    filter: hue-rotate(360deg);
-  }
-}
-</style>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syed-mohammed-abdullah-shah/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Abdullah1155868) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:syedmohammedabdullahshah@gmail.com)
@@ -70,7 +56,7 @@
 # 📊GitHub Stats :
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Shah-26&theme=dark&show_icons=true&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Shah-26&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
@@ -78,7 +64,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Shah-26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Shah-26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -118,3 +104,4 @@
 Abdullah-Shah-26/Abdullah-Shah-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---> 
+
