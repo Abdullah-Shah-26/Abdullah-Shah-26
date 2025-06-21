@@ -3,6 +3,7 @@
 - 👀 I'm interested in different programming languages and frameworks 
 - 🌱 I'm currently learning cpp DSA & python 
 - 💞️ I'm looking to collaborate on real world problems in software that can make people's life easier.  
+- 📫 How to reach me - syedmohammedabdullahshah@gmail.com
 - ⚡ Fun fact: I am interested in both software & hardware of a computer 🖥️ and 📱Mobile
 
 <div align="center">
@@ -18,10 +19,24 @@
   "></div>
 </div>
 
-
+<style>
+@keyframes rgbFlow {
+  0% {
+    background-position: 0% 50%;
+    filter: hue-rotate(0deg);
+  }
+  100% {
+    background-position: 200% 50%;
+    filter: hue-rotate(360deg);
+  }
+}
+</style>
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syed-mohammed-abdullah-shah/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Abdullah1155868)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:syedmohammedabdullahshah@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syed-mohammed-abdullah-shah/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Abdullah1155868) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:syedmohammedabdullahshah@gmail.com)
+
+## 💻Competitive Programming
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/ABDULLAH2006/) [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/abdullah_shah) [![CodeForces](https://img.shields.io/badge/CodeForces-445f9d?style=flat&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Perfectionist_26) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/syedmohammedaj8mq/) [![AtCoder](https://img.shields.io/badge/AtCoder-002E8B?style=flat&logo=AtCoder&logoColor=white)](https://atcoder.jp/users/AbdullahShah)
 
 <div align="center">
   <div style="
@@ -87,8 +102,4 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abdullah&icon=0&color=0)](https://visitcount.itsvg.in)
-<!---
-SyedMohammedAbdullahShah/SyedMohammedAbdullahShah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![](https://visitcount.itsvg.in/api?id=Abdullah&icon=0&color=0)](https://visitcount.itsvg.in) 
