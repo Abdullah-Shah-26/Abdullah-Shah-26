@@ -3,7 +3,6 @@
 - 👀 I'm interested in different Programming languages, Frameworks, Softwares & Tech Gadgets.
 - 🌱 I'm currently learning advanced C++ DSA concepts & exploring dev.
 - 💞️ I'm looking to collaborate on real world problems in software that can make everyone's life better.  
-- ⚡ Fun fact: I am interested in both software & hardware of a computer 🖥️ and 📱Mobile
 
 <div align="center">
   <div style="
@@ -61,7 +60,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Shah-26&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Abdullah-Shah-26&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -104,4 +103,4 @@
 <!---
 Abdullah-Shah-26/Abdullah-Shah-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----> 
+--->  
