@@ -19,8 +19,7 @@
 
 
 ## 🌐Socials
-<a href="https://linkedin.com/in/syed-mohammed-abdullah-shah/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://twitter.com/Abdullah1155868" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a><a href="mailto:syedmohammedabdullahshah@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
+<a href="https://linkedin.com/in/syed-mohammed-abdullah-shah/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://twitter.com/Abdullah1155868" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a><a href="mailto:syedmohammedabdullahshah@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://t.me/Abdullah" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-30A3EC?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 ## 💻Competitive Programming
 
 <a href="https://leetcode.com/u/ABDULLAH2006/" target="_blank">
@@ -34,7 +33,7 @@
   <a href="https://atcoder.jp/users/AbdullahShah" target="_blank">
     <img src="https://img.shields.io/badge/ATCODER-BC002D?style=for-the-badge&logo=AtCoder&logoColor=white"/></a>
   <a href="https://codolio.com/profile/Abdullah_Shah" target="_blank">
-    <img src="https://img.shields.io/badge/CODOLIO-2D94DE?style=for-the-badge&logo=&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/CODOLIO-A259F7?style=for-the-badge&logo=&logoColor=white"/></a> 
 
 <div align="center">
   <div style="
