@@ -2,7 +2,8 @@
 - 👋 Hi, I'm @Abdullah
 - 👀 I'm interested in different Programming languages, Frameworks, Softwares & Tech Gadgets.
 - 🌱 I'm currently learning advanced DSA & exploring dev.
-- 💞️ I'm looking to collaborate on real world problems in software that can make everyone's life better.  
+- 💞️ I'm looking to collaborate on real world problems in software that can make everyone's life better.
+
 
 <div align="center">
   <div style="
