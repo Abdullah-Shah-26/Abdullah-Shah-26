@@ -1,7 +1,7 @@
 # 💫About Me :
 - 👋 Hi, I'm @Abdullah
 - 👀 I'm interested in different Programming languages, Frameworks, Softwares & Tech Gadgets.
-- 🌱 I'm currently learning advanced C++ DSA concepts & exploring dev.
+- 🌱 I'm currently learning advanced DSA & exploring dev.
 - 💞️ I'm looking to collaborate on real world problems in software that can make everyone's life better.  
 
 <div align="center">
@@ -38,7 +38,18 @@
 </div>
 
 # 💻Tech Stack
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD43B) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"/><img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=seaborn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-FF6F00?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=Mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-6C3483?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-17A589?style=for-the-badge&logo=pandas&logoColor=white"/>
+
 
 <div align="center">
   <div style="
