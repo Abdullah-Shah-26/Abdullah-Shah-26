@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flowing RGB Line</title>
+    <style>
+        body {
+            margin: 0;
+            background: #000;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            overflow: hidden;
+        }
+
+        .rgb-line {
+            width: 100vw;
+            height: 4px;
+            background: linear-gradient(
+                90deg,
+                #ff0000,
+                #ff8000,
+                #ffff00,
+                #00ff00,
+                #00ffff,
+                #0000ff,
+                #8000ff,
+                #ff00ff,
+                #ff0000
+            );
+            background-size: 200% 100%;
+            animation: flow 3s linear infinite;
+            box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
+            border-radius: 2px;
+        }
+
+        @keyframes flow {
+            0% {
+                background-position: 0% 50%;
+                filter: hue-rotate(0deg);
+            }
+            100% {
+                background-position: 200% 50%;
+                filter: hue-rotate(360deg);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="rgb-line"></div>
+</body>
+</html>
