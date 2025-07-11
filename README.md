@@ -1,14 +1,9 @@
 # 💫About Me :
 - 👋 Hi, I'm @Abdullah
 - 👀 I'm interested in different Programming languages, Frameworks, Softwares & Tech Gadgets.
-<<<<<<< HEAD
-- 🌱 I'm currently learning advanced C++ DSA concepts & exploring dev.
-- 💞️ I'm looking to collaborate on real world problems in software that can make everyone's life better.  
-=======
 - 🌱 I'm currently learning advanced DSA & exploring dev.
 - 💞️ I'm looking to collaborate on real world problems in software that can make everyone's life better.
 
->>>>>>> 084455836e7ac895b759d5f397362fc424427dca
 
 <div align="center">
   <div style="
@@ -25,33 +20,6 @@
 
 
 ## 🌐Socials
-<<<<<<< HEAD
-<div align="center">
-<a href="https://linkedin.com/in/syed-mohammed-abdullah-shah/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://twitter.com/Abdullah1155868" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a><a href="mailto:syedmohammedabdullahshah@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://t.me/Abdullah" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</div>
-
-## 💻Competitive Programming
-<div align="center">
-  <a href="https://leetcode.com/u/ABDULLAH2006/" target="_blank">
-    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-  </a>
-  <a href="https://www.codechef.com/users/abdullah_shah" target="_blank">
-    <img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/>
-  </a>
-  <a href="https://codeforces.com/profile/Perfectionist_26" target="_blank">
-    <img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/syedmohammedaj8mq/" target="_blank">
-    <img src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-  <a href="https://atcoder.jp/users/AbdullahShah" target="_blank">
-    <img src="https://img.shields.io/badge/ATCODER-BC002D?style=for-the-badge&logo=AtCoder&logoColor=white"/>
-  </a>
-  <a href="https://codolio.com/profile/Abdullah_Shah" target="_blank">
-    <img src="https://img.shields.io/badge/CODOLIO-FF5C00?style=for-the-badge&logo=&logoColor=white"/>
-  </a>
-</div>
-=======
 <a href="https://linkedin.com/in/syed-mohammed-abdullah-shah/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://twitter.com/Abdullah1155868" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a><a href="mailto:syedmohammedabdullahshah@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://t.me/Abdullah" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-30A3EC?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 ## 💻Competitive Programming
 
@@ -67,7 +35,6 @@
     <img src="https://img.shields.io/badge/ATCODER-BC002D?style=for-the-badge&logo=AtCoder&logoColor=white"/></a>
   <a href="https://codolio.com/profile/Abdullah_Shah" target="_blank">
     <img src="https://img.shields.io/badge/CODOLIO-A259F7?style=for-the-badge&logo=&logoColor=white"/></a> 
->>>>>>> 084455836e7ac895b759d5f397362fc424427dca
 
 <div align="center">
   <div style="
@@ -83,15 +50,9 @@
 </div>
 
 # 💻Tech Stack
-<<<<<<< HEAD
-<div align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/> <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=seaborn&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-FF6F00?style=for-the-badge&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=Mathworks&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-6C3483?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-17A589?style=for-the-badge&logo=pandas&logoColor=white"/>
-</div>
-=======
 
    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/> <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=seaborn&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-FF6F00?style=for-the-badge&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=Mathworks&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-6C3483?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-17A589?style=for-the-badge&logo=pandas&logoColor=white"/>
 
->>>>>>> 084455836e7ac895b759d5f397362fc424427dca
 
 <div align="center">
   <div style="
@@ -156,8 +117,4 @@
 <!---
 Abdullah-Shah-26/Abdullah-Shah-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-<<<<<<< HEAD
 --->  
-=======
---->  
->>>>>>> 084455836e7ac895b759d5f397362fc424427dca
