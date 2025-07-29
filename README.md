@@ -2,11 +2,13 @@
 
 # 💫About Me :
 - 👋 Hi, I'm Abdullah
-- 👀 I'm interested in various Programming languages, Frameworks and Softwares.
-- 🌱 I'm currently learning advanced DSA & Exploring dev.
-- 💞️ I'm looking to collaborate on real world problems in software that can make people's life better.
+- Currently Deepening my expertise in C++ DSA, aiming for top-tier problem-solving
 
+- Exploring AI/ML with Python & building real-world backend projects
 
+- Fascinated by systems — how hardware & software interact
+
+- Always learning, building, and connecting with high-quality minds
 
 ## 🌐Socials
 <a href="https://linkedin.com/in/syed-mohammed-abdullah-shah/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
