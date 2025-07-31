@@ -4,7 +4,7 @@
 - 👋 Hi, I'm Abdullah
 - Currently Deepening my expertise in C++ DSA, aiming for top-tier problem-solving
 
-- Exploring AI/ML with Python & building real-world backend projects
+- Exploring AI/ML with Python & building skills in Full Stack.
 
 - Fascinated by systems — how hardware & software interact
 
