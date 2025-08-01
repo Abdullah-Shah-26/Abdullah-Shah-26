@@ -24,8 +24,6 @@
     <img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
   <a href="https://www.geeksforgeeks.org/user/syedmohammedaj8mq/" target="_blank">
     <img src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-  <a href="https://atcoder.jp/users/AbdullahShah" target="_blank">
-    <img src="https://img.shields.io/badge/ATCODER-BC002D?style=for-the-badge&logo=AtCoder&logoColor=white"/></a>
   <a href="https://codolio.com/profile/Abdullah_Shah" target="_blank">
     <img src="https://img.shields.io/badge/CODOLIO-A259F7?style=for-the-badge&logo=&logoColor=white"/></a> 
 
