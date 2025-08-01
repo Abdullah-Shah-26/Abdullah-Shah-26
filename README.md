@@ -4,9 +4,7 @@
 - 👋 Hi, I'm Abdullah
 - Currently Deepening my expertise in C++ DSA, aiming for top-tier problem-solving
 
-- Exploring AI/ML with Python & building skills in Full Stack.
-
-- Fascinated by systems — how hardware & software interact
+- Exploring AI/ML & building skills in Full Stack.
 
 - Always learning, building, and connecting with high-quality minds
 
@@ -42,7 +40,6 @@
 <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=seaborn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-FF6F00?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=Mathworks&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-6C3483?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-17A589?style=for-the-badge&logo=pandas&logoColor=white"/>
 
