@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Abdullah-Shah-26/Abdullah-Shah-26/refs/heads/main/rgb-gradient.svg" width="100%" height="3px"/>
+<img src="https://raw.githubusercontent.com/Abdullah-Shah-26/Abdullah-Shah-26/refs/heads/main/assets/rgb-gradient.svg" width="100%" height="3px"/>
 
 # 💫About Me :
 - 👋 Hi, I'm Abdullah
@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/NumPy-6C3483?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-17A589?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<img src="https://raw.githubusercontent.com/Abdullah-Shah-26/Abdullah-Shah-26/refs/heads/main/rgb-gradient.svg" width="100%" height="3px"/>
+<img src="https://raw.githubusercontent.com/Abdullah-Shah-26/Abdullah-Shah-26/refs/heads/main/assets/rgb-gradient.svg" width="100%" height="3px"/>
 
 # 📊GitHub Stats :
 
@@ -63,9 +63,8 @@
   <img src="https://github-trophies.vercel.app/?username=Abdullah-Shah-26&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-<img src="https://raw.githubusercontent.com/Abdullah-Shah-26/Abdullah-Shah-26/refs/heads/main/rgb-gradient.svg" width="100%" height="3px"/>
+<img src="https://raw.githubusercontent.com/Abdullah-Shah-26/Abdullah-Shah-26/refs/heads/main/assets/rgb-gradient.svg" width="100%" height="3px"/>
 
-[![](https://visitcount.itsvg.in/api?id=Abdullah-Shah-26&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!---
 Abdullah-Shah-26/Abdullah-Shah-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
