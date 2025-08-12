@@ -10,7 +10,7 @@
 
 ## 🌐Socials
 <a href="https://linkedin.com/in/syed-mohammed-abdullah-shah/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/Abdullah1155868" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://twitter.com/AbdullahShah26" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="mailto:syedmohammedabdullahshah@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://t.me/Abdullah_Shah_26" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-30A3EC?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
