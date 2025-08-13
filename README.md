@@ -6,7 +6,7 @@
 
 - Exploring AI/ML & building skills in Full Stack.
 
-- Always learning, building, and connecting with high-quality minds
+- Learning, building, and connecting with high-quality minds
 
 ## 🌐Socials
 <a href="https://linkedin.com/in/syed-mohammed-abdullah-shah/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
