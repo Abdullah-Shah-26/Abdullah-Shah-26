@@ -6,7 +6,7 @@
 
 - Exploring GenAI & building skills in Full Stack.
 
-- Learning, building, and connecting with high-quality minds
+- Likes learning, building, and connecting with high-quality minds
 
 ## 🌐Socials
 <a href="https://linkedin.com/in/syed-mohammed-abdullah-shah/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -14,7 +14,7 @@
 <a href="mailto:syedmohammedabdullahshah@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://t.me/Abdullah_Shah_26" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-30A3EC?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
-## 💻Competitive Programming
+## 💻Data Structures & Algorithms
 
 <a href="https://leetcode.com/u/ABDULLAH2006/" target="_blank">
     <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
@@ -30,18 +30,7 @@
 
 # 💻Tech Stack
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=seaborn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-FF6F00?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-6C3483?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-17A589?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://raw.githubusercontent.com/Abdullah-Shah-26/Abdullah-Shah-26/refs/heads/main/assets/rgb-gradient.svg" width="100%" height="3px"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/> <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 
 # 📊GitHub Stats :
 
