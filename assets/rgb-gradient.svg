@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="100%" height="6" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="rgb" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -9,6 +10,16 @@
       <stop offset="83%" stop-color="#0000ff"/>
       <stop offset="100%" stop-color="#ff00ff"/>
     </linearGradient>
+    <style>
+      .animated-rect {
+        fill: url(#rgb);
+        animation: gradientShift 1s infinite alternate; /* Reduced to 1s for even faster color change */
+      }
+      @keyframes gradientShift {
+        from { filter: hue-rotate(0deg); }
+        to { filter: hue-rotate(360deg); }
+      }
+    </style>
   </defs>
-  <rect width="100%" height="6" fill="url(#rgb)" />
-</svg> 
+  <rect class="animated-rect" width="100%" height="6" />
+</svg>
