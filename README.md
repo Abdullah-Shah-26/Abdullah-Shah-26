@@ -2,7 +2,7 @@
 
 # 💫About Me :
 - 👋 Hi, I'm Abdullah
-- Currently Deepening my expertise in C++ DSA, aiming for top-tier problem-solving
+- Currently Deepening my expertise in C++ DSA.
 
 - Exploring GenAI & building skills in Full Stack.
 
