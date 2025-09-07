@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/Abdullah-Shah-26/Abdullah-Shah-26/refs/heads/main/assets/rgb-gradient.svg" width="100%" height="3px"/>
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 # 💫About Me :
 - 👋 Hi, I'm Abdullah
@@ -28,12 +30,12 @@
     <img src="https://img.shields.io/badge/CODOLIO-A259F7?style=for-the-badge&logo=&logoColor=white"/></a> 
 
 
-# 💻Tech Stack
+## 💻Tech Stack
 
  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/> <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/><img src="https://img.shields.io/badge/Netlify-00AD9F?style=for-the-badge&logo=netlify&logoColor=white"/><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 
-# 📊GitHub Stats :
+## 📊GitHub Stats :
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Shah-26&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -47,7 +49,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Shah-26&theme=dark&hide_border=false&layout=compact&langs_count=8&exclude_repo=repo1,repo2" alt="Top Languages" />
 </div>
 
-<img src="https://raw.githubusercontent.com/Abdullah-Shah-26/Abdullah-Shah-26/refs/heads/main/assets/rgb-gradient.svg" width="100%" height="3px"/>
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 
 <!---
