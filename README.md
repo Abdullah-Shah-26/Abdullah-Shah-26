@@ -47,11 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Shah-26&theme=dark&hide_border=false&layout=compact&langs_count=8&exclude_repo=repo1,repo2" alt="Top Languages" />
 </div>
 
-## 🏆GitHub Trophies
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Abdullah-Shah-26&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
 <img src="https://raw.githubusercontent.com/Abdullah-Shah-26/Abdullah-Shah-26/refs/heads/main/assets/rgb-gradient.svg" width="100%" height="3px"/>
 
 
