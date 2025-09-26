@@ -8,8 +8,6 @@
 
 - Exploring GenAI & building skills in Full Stack.
 
-- Enjoys learning, building, and connecting with high-quality minds
-
 ## 🌐Socials
 <a href="https://linkedin.com/in/syed-mohammed-abdullah-shah/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/AbdullahShah26" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
