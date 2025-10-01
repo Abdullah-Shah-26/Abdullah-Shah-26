@@ -4,7 +4,7 @@
 
 # 💫About Me :
 - 👋 Hi, I'm Abdullah
-- Currently Deepening my expertise in DSA & Problem Solving.
+- Currently deepening my expertise in DSA & Problem Solving.
 
 - Exploring GenAI & building skills in Full Stack.
 
