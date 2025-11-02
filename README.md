@@ -36,22 +36,23 @@
 ## 📊GitHub Stats :
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Shah-26&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Shah-26&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FFFF" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abdullah-Shah-26&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Abdullah-Shah-26&theme=dark&hide_border=false&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Shah-26&theme=dark&hide_border=false&layout=compact&langs_count=8&exclude_repo=repo1,repo2" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Shah-26&layout=compact&langs_count=8&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FFFF" alt="Top Languages" />
 </div>
+
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-## </> Hacktoberfest (25) 🍂
+## </> Hacktoberfest [25]
 
 [![Holopin Board](https://holopin.me/abdullahshah26)](https://holopin.io/@abdullahshah26)
 [![](https://visitcount.itsvg.in/api?id=abdullahshah26&icon=0&color=0)](https://visitcount.itsvg.in)
