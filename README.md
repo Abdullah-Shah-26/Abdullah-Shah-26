@@ -36,16 +36,17 @@
 ## 📊GitHub Stats :
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Shah-26&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Shah-26&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FFFF&cache_seconds=1" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdullah-Shah-26&theme=dark&hide_border=false&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Abdullah-Shah-26&theme=dark&hide_border=false&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&cache=1" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Shah-26&layout=compact&langs_count=8&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Shah-26&layout=compact&langs_count=8&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FFFF&cache_seconds=1" />
 </div>
+
 
 ***
 
