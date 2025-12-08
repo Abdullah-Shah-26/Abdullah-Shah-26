@@ -2,8 +2,8 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-# 💫About Me :
-- 👋 Hi, I'm Abdullah
+## 💫About Me 
+- <img src="https://www.flamesblue.com/flame-icon.svg" width="18" style="position:relative;top:4px;"> Hi, I'm Abdullah
 - Currently deepening my expertise in DSA & Problem Solving.
 
 - Exploring GenAI & building skills in Full Stack.
