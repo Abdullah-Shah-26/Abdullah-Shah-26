@@ -23,8 +23,10 @@
   <a href="https://codeforces.com/profile/Perfectionist_26" target="_blank">
     <img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
   <a href="https://www.geeksforgeeks.org/user/syedmohammedaj8mq/" target="_blank">
-    <img src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-
+    <img src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> 
+ <a href="https://atcoder.jp/users/AbdullahShah" target="_blank">
+  <img src="https://img.shields.io/badge/ATCODER-000000?style=for-the-badge&logo=atcoder&logoColor=white"/>
+</a>
 
 ## 💻Tech Stack
 
@@ -34,15 +36,15 @@
 ## 📊GitHub Stats :
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Shah-26&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FFFF&cache_seconds=0" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Shah-26&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FFFF&cache_seconds=1" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdullah-Shah-26&theme=dark&hide_border=false&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&cache=0" />
+  <img src="https://streak-stats.demolab.com?user=Abdullah-Shah-26&theme=dark&hide_border=false&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&cache=1" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Shah-26&layout=compact&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FFFF&langs_count=14&cache_seconds=0&size_weight=1&count_weight=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Shah-26&layout=compact&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FFFF&langs_count=14&cache_seconds=1&size_weight=1&count_weight=1" />
 </div>
 
 ## </> Hacktoberfest [25]
