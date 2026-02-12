@@ -38,7 +38,7 @@
 ## 📊GitHub Stats :
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Shah-26&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FFFF&cache_seconds=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Shah-26&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FFFF&cache_seconds=2" />
 </div>
 
 <div align="center">
@@ -46,7 +46,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Shah-26&layout=compact&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FFFF&langs_count=14&cache_seconds=1&size_weight=1&count_weight=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Shah-26&layout=compact&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FFFF&langs_count=14&cache_seconds=2&size_weight=1&count_weight=1" />
 </div>
 
 ## </> Hacktoberfest [25]
