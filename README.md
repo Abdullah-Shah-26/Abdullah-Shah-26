@@ -18,15 +18,14 @@
 
 <a href="https://leetcode.com/u/ABDULLAH2006/" target="_blank">
     <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
-  <a href="https://www.codechef.com/users/abdullah_shah" target="_blank">
-    <img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/Perfectionist_26" target="_blank">
-    <img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
-  <a href="https://www.geeksforgeeks.org/user/syedmohammedaj8mq/" target="_blank">
+<a href="https://www.geeksforgeeks.org/user/syedmohammedaj8mq/" target="_blank">
     <img src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> 
- <a href="https://atcoder.jp/users/AbdullahShah" target="_blank">
-  <img src="https://img.shields.io/badge/ATCODER-000000?style=for-the-badge&logo=atcoder&logoColor=white"/>
-</a>
+<a href="https://www.codechef.com/users/abdullah_shah" target="_blank">
+    <img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/Perfectionist_26" target="_blank">
+    <img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+<a href="https://atcoder.jp/users/AbdullahShah" target="_blank">
+  <img src="https://img.shields.io/badge/ATCODER-000000?style=for-the-badge&logo=atcoder&logoColor=white"/></a>
 
 ## 💻Tech Stack
 
