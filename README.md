@@ -24,8 +24,6 @@
     <img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
 <a href="https://codeforces.com/profile/Perfectionist_26" target="_blank">
     <img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
-<a href="https://atcoder.jp/users/AbdullahShah" target="_blank">
-  <img src="https://img.shields.io/badge/ATCODER-000000?style=for-the-badge&logo=atcoder&logoColor=white"/></a>
 
 ## 💻Tech Stack
 
