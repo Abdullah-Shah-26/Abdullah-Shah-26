@@ -5,7 +5,6 @@
 ## 💫About Me 
 - <img src="https://www.flamesblue.com/flame-icon.svg" width="18" style="position:relative;top:4px;"> Hi, I'm Abdullah
 - Currently focused on Data Structures & Algorithms.
-- Solving problems consistently and improving algorithmic thinking.
 
 ## 🌐Socials
 <a href="https://linkedin.com/in/syed-mohammed-abdullah-shah/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
