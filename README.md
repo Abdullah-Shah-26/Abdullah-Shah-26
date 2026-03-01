@@ -2,13 +2,12 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-## 💫About Me 
-- <img src="https://www.flamesblue.com/flame-icon.svg" width="18" style="position:relative;top:4px;"> Hi, I'm Abdullah
-- Currently focused on Data Structures & Algorithms.
+## 💫 About Me
+- Hi, I’m Abdullah
+- Focused on Data Structures & Algorithms and competitive programming
 
 ## 🌐Socials
 <a href="https://linkedin.com/in/syed-mohammed-abdullah-shah/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/AbdullahShah26" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="mailto:syedmohammedabdullahshah@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
