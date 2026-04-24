@@ -12,7 +12,7 @@
 
 ## 💻Data Structures & Algorithms
 
-<a href="https://leetcode.com/u/ABDULLAH2006/" target="_blank">
+<a href="https://leetcode.com/u/Abdullah_Shah_26/" target="_blank">
     <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
 <a href="https://www.geeksforgeeks.org/user/syedmohammedaj8mq/" target="_blank">
     <img src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> 
