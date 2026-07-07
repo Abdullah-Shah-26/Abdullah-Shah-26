@@ -2,15 +2,15 @@
 
 
 ## 💫 About Me
-- Hi, I’m Abdullah
-- Focused on DSA & Competitive Programming
+- Hi, I'm Abdullah
+- Currently focused on mastering Data Structures & Algorithms and Competitive Programming
 
-## 🌐Socials
+## 🌐 Socials
 <a href="https://linkedin.com/in/syed-mohammed-abdullah-shah/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:syedmohammedabdullahshah@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
-## 💻Data Structures & Algorithms
+## ⚔️ Competitive Programming
 
 
 <a href="https://leetcode.com/u/Abdullah_Shah_26/" target="_blank">
@@ -23,8 +23,7 @@
     <img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
 <a href="https://www.geeksforgeeks.org/profile/abdullahshah?tab=activity" target="_blank"><img src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=GFG&logoColor=white"/></a>
 
-## 💻Tech Stack
-
+## ⚙️ Tech Stack
 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -47,7 +46,7 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 
-## 📊GitHub Stats :
+## 📈 GitHub Stats 
 
 <div align="center">
 
