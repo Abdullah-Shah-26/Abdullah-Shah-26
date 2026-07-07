@@ -3,7 +3,7 @@
 
 ## 💫 About Me
 - Hi, I'm Abdullah
-- Currently focused on mastering Data Structures & Algorithms and Competitive Programming
+- Currently focused on Data Structures & Algorithms and Competitive Programming
 
 ## 🌐 Socials
 <a href="https://linkedin.com/in/syed-mohammed-abdullah-shah/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
