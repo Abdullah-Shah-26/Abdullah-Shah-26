@@ -50,7 +50,15 @@
 
 <div align="center">
 
-  <img height="170" src="https://streak-stats.demolab.com?user=Abdullah-Shah-26&theme=dark&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=Abdullah-Shah-26&theme=dark"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Abdullah-Shah-26"
+  />
+</picture>
 
 </div>
 
